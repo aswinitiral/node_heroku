@@ -1,0 +1,17 @@
+{
+  "name": "nodejsheroku",
+  "version": "0.0.1",
+  "description": "deploying node js to heroku platform",
+  "main": "server.js",
+  "author": {
+    "name": "aswini",
+    "email": "k.aswinii@gmail.com"
+  },
+  "engines": {
+    "node": "v8.11.1",
+    "npm": "5.6.0"
+  },
+  "dependencies": {
+    "express": "4.13.x"
+  }
+}
